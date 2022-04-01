@@ -1,2 +1,2 @@
-# Titanic
-The titanic machine learning competition hosted by kaggle
+# Machine Learning
+Contains machine learning projects completed to improve machine learning skills and knowledge
